@@ -1,4 +1,4 @@
-# EasyHash实验报告
+# EasyHash
 
 ## 1. 需求背景
 
